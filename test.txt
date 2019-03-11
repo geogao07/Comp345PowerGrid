@@ -1,0 +1,8 @@
+aa	10
+abcd	10	
+bb	10
+cc	10
+asda 	10
+csd	10
+awe	5
+dsq	15
